@@ -1,0 +1,2 @@
+C:\Users\crist\source\repos\BogoSort_ASM\Debug\BogoSort_ASM.exe
+D:\FII\ACSO\Sortari Assembly\BogoSort_ASM\Debug\BogoSort_ASM.exe
